@@ -1,5 +1,6 @@
 # Created on Fri Nov 22
 # Thanks to the Scholarly module and ChatGPT! 
+# ref: https://github.com/scholarly-python-package/scholarly
 
 mport pandas as pd
 from scholarly import scholarly
